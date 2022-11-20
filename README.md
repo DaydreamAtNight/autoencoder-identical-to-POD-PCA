@@ -1,0 +1,3 @@
+Build a Linear Autoencoder (LAE) comparable to Proper orthogonal decomposition (POD) in two ways. The modes extracted by the two algorithms are compared on the wide (MINST [28*28, 60000]) and slim (Flow past cylinder snapshots [465*354, 110]) datasets. In addition, several regularization methods to improve the orthogonality and optimality of LAE modes are proposed and tested.
+
+see https://daydreamatnight.github.io/2022/11/02/Autoencoder-identical-to-POD/
